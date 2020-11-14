@@ -1,0 +1,11 @@
+C:\Users\rober\Desktop\FormFree\TriangleType\TriangleType\bin\Debug\netcoreapp3.1\TriangleType.exe
+C:\Users\rober\Desktop\FormFree\TriangleType\TriangleType\bin\Debug\netcoreapp3.1\TriangleType.deps.json
+C:\Users\rober\Desktop\FormFree\TriangleType\TriangleType\bin\Debug\netcoreapp3.1\TriangleType.runtimeconfig.json
+C:\Users\rober\Desktop\FormFree\TriangleType\TriangleType\bin\Debug\netcoreapp3.1\TriangleType.runtimeconfig.dev.json
+C:\Users\rober\Desktop\FormFree\TriangleType\TriangleType\bin\Debug\netcoreapp3.1\TriangleType.dll
+C:\Users\rober\Desktop\FormFree\TriangleType\TriangleType\bin\Debug\netcoreapp3.1\TriangleType.pdb
+C:\Users\rober\Desktop\FormFree\TriangleType\TriangleType\obj\Debug\netcoreapp3.1\TriangleType.csprojAssemblyReference.cache
+C:\Users\rober\Desktop\FormFree\TriangleType\TriangleType\obj\Debug\netcoreapp3.1\TriangleType.AssemblyInfoInputs.cache
+C:\Users\rober\Desktop\FormFree\TriangleType\TriangleType\obj\Debug\netcoreapp3.1\TriangleType.AssemblyInfo.cs
+C:\Users\rober\Desktop\FormFree\TriangleType\TriangleType\obj\Debug\netcoreapp3.1\TriangleType.dll
+C:\Users\rober\Desktop\FormFree\TriangleType\TriangleType\obj\Debug\netcoreapp3.1\TriangleType.pdb
