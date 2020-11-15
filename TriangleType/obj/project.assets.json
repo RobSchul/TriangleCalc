@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\rober\\Desktop\\FormFree\\TriangleType\\TriangleType\\TriangleType.csproj",
+      "projectUniqueName": "C:\\Users\\rober\\Desktop\\FormFree\\TriangleType\\Assessment1\\TriangleType\\TriangleType.csproj",
       "projectName": "TriangleType",
-      "projectPath": "C:\\Users\\rober\\Desktop\\FormFree\\TriangleType\\TriangleType\\TriangleType.csproj",
+      "projectPath": "C:\\Users\\rober\\Desktop\\FormFree\\TriangleType\\Assessment1\\TriangleType\\TriangleType.csproj",
       "packagesPath": "C:\\Users\\rober\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\rober\\Desktop\\FormFree\\TriangleType\\TriangleType\\obj\\",
+      "outputPath": "C:\\Users\\rober\\Desktop\\FormFree\\TriangleType\\Assessment1\\TriangleType\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\rober\\AppData\\Roaming\\NuGet\\NuGet.Config",

@@ -6601,11 +6601,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\rober\\Desktop\\FormFree\\TriangleType\\TriangleTests\\TriangleTests.csproj",
+      "projectUniqueName": "C:\\Users\\rober\\Desktop\\FormFree\\TriangleType\\Assessment1\\TriangleTests\\TriangleTests.csproj",
       "projectName": "TriangleTests",
-      "projectPath": "C:\\Users\\rober\\Desktop\\FormFree\\TriangleType\\TriangleTests\\TriangleTests.csproj",
+      "projectPath": "C:\\Users\\rober\\Desktop\\FormFree\\TriangleType\\Assessment1\\TriangleTests\\TriangleTests.csproj",
       "packagesPath": "C:\\Users\\rober\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\rober\\Desktop\\FormFree\\TriangleType\\TriangleTests\\obj\\",
+      "outputPath": "C:\\Users\\rober\\Desktop\\FormFree\\TriangleType\\Assessment1\\TriangleTests\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\rober\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -6621,8 +6621,8 @@
       "frameworks": {
         "netcoreapp3.1": {
           "projectReferences": {
-            "C:\\Users\\rober\\Desktop\\FormFree\\TriangleType\\TriangleType\\TriangleType.csproj": {
-              "projectPath": "C:\\Users\\rober\\Desktop\\FormFree\\TriangleType\\TriangleType\\TriangleType.csproj"
+            "C:\\Users\\rober\\Desktop\\FormFree\\TriangleType\\Assessment1\\TriangleType\\TriangleType.csproj": {
+              "projectPath": "C:\\Users\\rober\\Desktop\\FormFree\\TriangleType\\Assessment1\\TriangleType\\TriangleType.csproj"
             }
           }
         }
